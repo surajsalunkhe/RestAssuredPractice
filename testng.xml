@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/e075110/Repo/Learn/src/test/java/Selenium/SampleCode.java"><classes><class name="Selenium.SampleCode"><methods><include name="site_header_is_on_home_page"/></methods></class></classes></test></suite>
